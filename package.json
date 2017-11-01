@@ -1,0 +1,23 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "telegram",
+  "main": "telegrambot.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "botbuilder": "^3.11.0",
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "needle": "^2.0.1",
+    "node-telegram-bot-api": "^0.29.0",
+    "osmosis": "^1.1.4",
+    "restify": "^6.0.1",
+    "tress": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MilkMan",
+  "license": "ISC"
+}
